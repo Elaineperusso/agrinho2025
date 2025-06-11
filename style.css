@@ -1,0 +1,21 @@
+ body{
+    background:pink;
+    }
+header{
+   background-color: #817BE8;
+   width: 1440px;
+   height:200px;
+} 
+
+h1{
+   font-family: inter;
+}    
+
+#cachorrinho{
+   width:341px;
+   height:244px;
+   padding-left:10px;
+   padding-right:50px;
+   background:20px ;
+
+}
